@@ -8,14 +8,11 @@
 >Leadership & Collaboration: Proven ability to lead and problem-solve in fast-paced team environments.
 
 # Tech Stack 
-### Frontend Development 
-HTML5, CSS3, JavaScript, Bootstrap, React
+Frontend Development : HTML5, CSS3, JavaScript, Bootstrap, React
 
-### Database
-Relational, NoSQL ( MongoDB )
+Database : Relational, NoSQL ( MongoDB )
 
-### Backend Development
-RestAPI, WebAPI, JSP, Servlets
+Backend Development : RestAPI, WebAPI, JSP, Servlets
 
 # Connect With Me
  Linkedin : www.linkedin.com/in/dimple-pawa-a469a6308
