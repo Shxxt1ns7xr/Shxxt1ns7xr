@@ -18,8 +18,8 @@ Relational, NoSQL ( MongoDB )
 RestAPI, WebAPI, JSP, Servlets
 
 # Connect With Me
-### Linkedin : www.linkedin.com/in/dimple-pawa-a469a6308
-### Email : 24100110036.uset@ltsu.ac.in
+ Linkedin : www.linkedin.com/in/dimple-pawa-a469a6308
+ Email : 24100110036.uset@ltsu.ac.in
 
 
 
