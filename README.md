@@ -1,25 +1,25 @@
-## Hi there 👋, I'm Dimple Pawa
+# Hi there 👋, I'm Dimple Pawa
 
  Aspiring Full Stack Web Developer | UI/UX Designer | Product Manager | Building Practical Web Apps
 
-## What I bring to the table:
+# What I bring to the table:
 >Full-Stack Development: End-to-end web applications using Java full stack. 
 >UI/UX Design: Crafting responsive, detail-oriented, and accessible interfaces. 
 >Leadership & Collaboration: Proven ability to lead and problem-solve in fast-paced team environments.
 
-## Tech Stack 
-# Frontend Development 
+# Tech Stack 
+### Frontend Development 
 HTML5, CSS3, JavaScript, Bootstrap, React
 
-# Database
+### Database
 Relational, NoSQL ( MongoDB )
 
-# Backend Development
+### Backend Development
 RestAPI, WebAPI, JSP, Servlets
 
-## Connect With Me
-# Linkedin : www.linkedin.com/in/dimple-pawa-a469a6308
-# Email : 24100110036.uset@ltsu.ac.in
+# Connect With Me
+### Linkedin : www.linkedin.com/in/dimple-pawa-a469a6308
+### Email : 24100110036.uset@ltsu.ac.in
 
 
 
