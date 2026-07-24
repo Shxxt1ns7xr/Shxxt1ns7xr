@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Dimple Pawa
 
- Aspiring Full Stack Web Developer | UI/UX Designer | Product Manager | Building Practical Web Apps
+ Aspiring Full Stack Web Developer | UI/UX Designer | Exploring Product Management | Building Practical Web Apps
 
 # What I bring to the table:
 >Full-Stack Development: End-to-end web applications using Java full stack. 
