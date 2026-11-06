@@ -12,7 +12,7 @@ Frontend Development : HTML5, CSS3, JavaScript, Bootstrap, React
 
 Database : Relational, NoSQL ( MongoDB )
 
-Backend Development : RestAPI, WebAPI, JSP, Servlets
+Backend Development : Java, SpringBoot, RestAPI, WebAPI
 
 # Connect With Me
  Linkedin : www.linkedin.com/in/dimple-pawa-a469a6308
