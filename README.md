@@ -5,8 +5,10 @@
 #### Protfolio : https://personalportfolio-ashen-one.vercel.app/
 
 # What I bring to the table:
->Full-Stack Development: End-to-end web applications using Java full stack. 
->UI/UX Design: Crafting responsive, detail-oriented, and accessible interfaces. 
+>Full-Stack Development: End-to-end web applications using Java full stack.
+
+>UI/UX Design: Crafting responsive, detail-oriented, and accessible interfaces.
+
 >Leadership & Collaboration: Proven ability to lead and problem-solve in fast-paced team environments.
 
 # Tech Stack 
